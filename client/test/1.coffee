@@ -1,0 +1,60 @@
+#这是单行注释
+###
+  这是多行注释
+###
+#变量定义 coffee中不需要使用var关键字定义变量
+#每一句代码占一行  不需要加分号
+a=10
+str='abd'
+console.log '变量a='+a
+#定义的变量默认都是局部变量
+#凡是代码有层级关系时，要严格缩进两个空格
+#定义对象时，不需要加{}而是严格的缩进体现属性和对象的关系
+
+isRight=true
+obj=
+  name:"tom"
+  age:19
+aaa=18
+#定义函数 coffee中函数的返回值就是最后一句代码
+#调用函数是（）可以省略
+f1=(num1,num2)->
+  num1+=4
+  console.log num1
+  num1+num2
+result=f1 10,20
+console.log result
+#给函数赋默认值
+f2=(num1,num2=20)->
+  console.log num1+num2
+f2 30
+f2 30,10
+#if条件
+#后置if语句
+###if (obj.age>18){
+  console.log(obj.name);
+  }###
+#后置if不换行
+console.log obj.name if obj.age>18
+console.log obj.name unless obj.age>18
+#普通if要进行缩进
+if obj.age>18
+  console.log(obj.name)
+#推荐使用is做等于判断 会翻译成js===
+if obj.name is "tom"
+  obj.pwd="123"
+  console.log "用户名"
+else if obj.name is "jack"
+  obj.pwd='abd'
+  console.log "系统用户"
+  if obj.age>20
+    console.log "已成人"
+#定义数组
+arr=[1,2,3,4,5]
+#循环
+for num in arr
+  if num%2 is 0
+    console.log "是偶数"
+  else
+    console.log "是奇数"
+

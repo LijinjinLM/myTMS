@@ -1,0 +1,67 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/client/src/app/index.js" />
+        <item url="file://$PROJECT_DIR$/server/src/biz/userBiz.js" />
+        <item url="file://$PROJECT_DIR$/server/src/routes/index.js" />
+        <item url="file://$PROJECT_DIR$/server/gulpfile.js" />
+        <item url="file://$PROJECT_DIR$/client/src/app/login/loginCtrl.js" />
+        <item url="file://$PROJECT_DIR$/server/src/biz/taskBiz.js" />
+        <item url="file://$PROJECT_DIR$/client/src/service/tmsUtils.js" />
+        <item url="file://$PROJECT_DIR$/server/src/www.js" />
+        <item url="file://$PROJECT_DIR$/client/test/1.js" />
+        <item url="file://$PROJECT_DIR$/server/src/libs/app.js" />
+        <item url="file://$PROJECT_DIR$/server/src/routes/user.js" />
+        <item url="file://$PROJECT_DIR$/server/src/libs/db.js" />
+        <item url="file://$PROJECT_DIR$/server/src/config/config.js" />
+        <item url="file://$PROJECT_DIR$/server/src/routes/task.js" />
+        <item url="file://$PROJECT_DIR$/server/src/biz/commonBiz.js" />
+        <item url="file://$PROJECT_DIR$/client/gulpfile.js" />
+        <item url="file://$PROJECT_DIR$/client/src/config/config.js" />
+        <item url="file://$PROJECT_DIR$/client/src/app/index/indexCtrl.js" />
+        <item url="file://$PROJECT_DIR$/server/src/biz/taskBiz.js" />
+        <item url="file://$PROJECT_DIR$/client/src/app/regist/registCtrl.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/server/src/routes/api.js" />
+      <root url="file://$PROJECT_DIR$/server/src/routes/api.js" />
+      <root url="file://$PROJECT_DIR$/client/src/app/login/login.js" />
+      <root url="file://$PROJECT_DIR$/client/src/app/login/login.js" />
+      <root url="file://$PROJECT_DIR$/client/dist/app/index.js" />
+      <root url="file://$PROJECT_DIR$/client/dist/app/regist/registCtrl.js" />
+      <root url="file://$PROJECT_DIR$/client/dist/app/regist/registCtrl.js" />
+      <root url="file://$PROJECT_DIR$/client/dist/app/login/loginCtrl.js" />
+      <root url="file://$PROJECT_DIR$/client/dist/app/login/loginCtrl.js" />
+      <root url="file://$PROJECT_DIR$/client/dist/app/index/indexCtrl.js" />
+      <root url="file://$PROJECT_DIR$/client/dist/app/index.js" />
+      <root url="file://$PROJECT_DIR$/client/dist/app/regist/registCtrl.js" />
+      <root url="file://$PROJECT_DIR$/client/dist/app/login/loginCtrl.js" />
+      <root url="file://$PROJECT_DIR$/client/dist/app/index/indexCtrl.js" />
+      <root url="file://$PROJECT_DIR$/client/config/config.js" />
+      <root url="file://$PROJECT_DIR$/client/config/config.js" />
+      <root url="file://$PROJECT_DIR$/client/src/app/index.js" />
+      <root url="file://$PROJECT_DIR$/server/src/biz/userBiz.js" />
+      <root url="file://$PROJECT_DIR$/server/src/routes/index.js" />
+      <root url="file://$PROJECT_DIR$/server/gulpfile.js" />
+      <root url="file://$PROJECT_DIR$/client/src/app/login/loginCtrl.js" />
+      <root url="file://$PROJECT_DIR$/server/src/biz/taskBiz.js" />
+      <root url="file://$PROJECT_DIR$/client/src/service/tmsUtils.js" />
+      <root url="file://$PROJECT_DIR$/server/src/www.js" />
+      <root url="file://$PROJECT_DIR$/client/test/1.js" />
+      <root url="file://$PROJECT_DIR$/server/src/libs/app.js" />
+      <root url="file://$PROJECT_DIR$/server/src/routes/user.js" />
+      <root url="file://$PROJECT_DIR$/server/src/libs/db.js" />
+      <root url="file://$PROJECT_DIR$/server/src/config/config.js" />
+      <root url="file://$PROJECT_DIR$/server/src/routes/task.js" />
+      <root url="file://$PROJECT_DIR$/server/src/biz/commonBiz.js" />
+      <root url="file://$PROJECT_DIR$/client/gulpfile.js" />
+      <root url="file://$PROJECT_DIR$/client/src/config/config.js" />
+      <root url="file://$PROJECT_DIR$/client/src/app/index/indexCtrl.js" />
+      <root url="file://$PROJECT_DIR$/server/src/biz/taskBiz.js" />
+      <root url="file://$PROJECT_DIR$/client/src/app/regist/registCtrl.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
